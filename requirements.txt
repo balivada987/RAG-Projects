@@ -1,0 +1,13 @@
+pypdf
+langchain-groq
+groq
+streamlit
+google-generativeai
+python-dotenv
+langchain
+#PyPDF2
+chromadb
+langchain
+faiss-cpu
+langchain_google_genai
+langchain_community
